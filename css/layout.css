@@ -41,4 +41,5 @@
 
 .right {
   float: right;
+  clear: both;
 }
