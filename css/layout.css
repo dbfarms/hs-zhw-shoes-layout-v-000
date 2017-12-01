@@ -41,16 +41,6 @@
 
 }
 
-.right {
-  float: right;
-  clear: both;
-
-}
-
-.featured {
-
-}
-
 [class*="col-"] {
   float: left;
   margin-left: 2%;
