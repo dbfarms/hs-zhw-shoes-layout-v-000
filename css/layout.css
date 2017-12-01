@@ -22,7 +22,13 @@
   clear: both;
 }
 
+
 /* Posititoning Classes */
+
+.row {
+  clear: both;
+  margin-bottom: 2%;
+}
 
 .col-1 {
   margin: 0 0 20px 0;
